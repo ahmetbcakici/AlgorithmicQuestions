@@ -1,0 +1,1 @@
+Check a word by entered from user about is it palindrome

@@ -1,0 +1,14 @@
+c:\users\ahmet bugra cakici\source\repos\palindrom\palindrom\bin\Debug\palindrom.exe.config
+c:\users\ahmet bugra cakici\source\repos\palindrom\palindrom\bin\Debug\palindrom.exe
+c:\users\ahmet bugra cakici\source\repos\palindrom\palindrom\bin\Debug\palindrom.pdb
+c:\users\ahmet bugra cakici\source\repos\palindrom\palindrom\obj\Debug\palindrom.csprojResolveAssemblyReference.cache
+c:\users\ahmet bugra cakici\source\repos\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+c:\users\ahmet bugra cakici\source\repos\palindrom\palindrom\obj\Debug\palindrom.exe
+c:\users\ahmet bugra cakici\source\repos\palindrom\palindrom\obj\Debug\palindrom.pdb
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q4\palindrom\palindrom\bin\Debug\palindrom.exe.config
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q4\palindrom\palindrom\bin\Debug\palindrom.exe
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q4\palindrom\palindrom\bin\Debug\palindrom.pdb
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q4\palindrom\palindrom\obj\Debug\palindrom.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q4\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q4\palindrom\palindrom\obj\Debug\palindrom.exe
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q4\palindrom\palindrom\obj\Debug\palindrom.pdb
