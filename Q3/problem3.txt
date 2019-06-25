@@ -1,1 +1,0 @@
-Write the function that takes a number as parameter and returns the largest prime number smaller than that number. 
