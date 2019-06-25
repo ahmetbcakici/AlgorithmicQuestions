@@ -1,0 +1,1 @@
+Write prime numbers until entered number.For an example if user enters 5 , you should write first 5 prime numbers.
