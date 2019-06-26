@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!--Girilen sayı kadar asal sayı bastırınız.Örneğin 5 girilince ilk 5 asal sayı basılacaktır.-->
+<html>
+<body>
+Enter a number:<input type="text" id="textbox">
+<button onclick=calculate()>OK</button>
+<script type="text/javascript">
+function calculate(){
+	console.clear();
+	var number = document.getElementById("textbox").value;
+	var cntr = 0;
+	var c = false;
+	for(var i = 2;;i++){
+		if(cntr >= number) break;
+		else{
+			for(var j = 2;j < i;j++){
+				if(i % j == 0){
+					c = true;
+					break;
+				}				
+			}
+			if(c == false){
+				console.log(i +" ");
+				cntr++;
+			}
+			c = false;
+		}
+	}	
+}
+</script>
+</body>
+</html>
