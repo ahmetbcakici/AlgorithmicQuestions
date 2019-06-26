@@ -1,0 +1,3 @@
+Write all prime numbers until entered number
+
+Verilecek bir sayıya kadar olan tüm asal sayıları yazınız.

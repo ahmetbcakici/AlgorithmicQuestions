@@ -1,0 +1,6 @@
+C:\Users\Ahmet Bugra Cakici\source\repos\PrimeNumbersUntilEnteredNumber\PrimeNumbersUntilEnteredNumber\bin\Debug\PrimeNumbersUntilEnteredNumber.exe.config
+C:\Users\Ahmet Bugra Cakici\source\repos\PrimeNumbersUntilEnteredNumber\PrimeNumbersUntilEnteredNumber\bin\Debug\PrimeNumbersUntilEnteredNumber.exe
+C:\Users\Ahmet Bugra Cakici\source\repos\PrimeNumbersUntilEnteredNumber\PrimeNumbersUntilEnteredNumber\bin\Debug\PrimeNumbersUntilEnteredNumber.pdb
+C:\Users\Ahmet Bugra Cakici\source\repos\PrimeNumbersUntilEnteredNumber\PrimeNumbersUntilEnteredNumber\obj\Debug\PrimeNumbersUntilEnteredNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Bugra Cakici\source\repos\PrimeNumbersUntilEnteredNumber\PrimeNumbersUntilEnteredNumber\obj\Debug\PrimeNumbersUntilEnteredNumber.exe
+C:\Users\Ahmet Bugra Cakici\source\repos\PrimeNumbersUntilEnteredNumber\PrimeNumbersUntilEnteredNumber\obj\Debug\PrimeNumbersUntilEnteredNumber.pdb

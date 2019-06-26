@@ -1,0 +1,2 @@
+Kullanıcıdan alınan bir sayıyı okuyarak,ekrana,verilen boyutlarda bir kare matrisin bütün elemanları 0 ve sadece ortadaki
+elemanları 1 olan bir artı yazdırınız.(boyut çift sayıysa,artı iki sütun ve satırdan,tek sayıysa tek satır ve sütundan oluşabilir.)

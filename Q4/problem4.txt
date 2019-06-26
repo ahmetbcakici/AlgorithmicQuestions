@@ -1,1 +1,3 @@
-Check a word by entered from user about is it palindrome
+Check a string value by entered from user about is it palindrome.
+
+Kullanýcý tarafýndan girilen string deðerin palindrom olup olmadýðýný kontrol ediniz

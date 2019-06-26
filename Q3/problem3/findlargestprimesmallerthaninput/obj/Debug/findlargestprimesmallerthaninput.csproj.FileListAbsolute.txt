@@ -1,0 +1,6 @@
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q3\problem3\findlargestprimesmallerthaninput\bin\Debug\findlargestprimesmallerthaninput.exe.config
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q3\problem3\findlargestprimesmallerthaninput\bin\Debug\findlargestprimesmallerthaninput.exe
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q3\problem3\findlargestprimesmallerthaninput\bin\Debug\findlargestprimesmallerthaninput.pdb
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q3\problem3\findlargestprimesmallerthaninput\obj\Debug\findlargestprimesmallerthaninput.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q3\problem3\findlargestprimesmallerthaninput\obj\Debug\findlargestprimesmallerthaninput.exe
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q3\problem3\findlargestprimesmallerthaninput\obj\Debug\findlargestprimesmallerthaninput.pdb

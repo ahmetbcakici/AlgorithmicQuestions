@@ -1,0 +1,7 @@
+C:\Users\Ahmet Bugra Cakici\source\repos\primefactors\primefactors\bin\Debug\primefactors.exe.config
+C:\Users\Ahmet Bugra Cakici\source\repos\primefactors\primefactors\bin\Debug\primefactors.exe
+C:\Users\Ahmet Bugra Cakici\source\repos\primefactors\primefactors\bin\Debug\primefactors.pdb
+C:\Users\Ahmet Bugra Cakici\source\repos\primefactors\primefactors\obj\Debug\primefactors.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Bugra Cakici\source\repos\primefactors\primefactors\obj\Debug\primefactors.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Bugra Cakici\source\repos\primefactors\primefactors\obj\Debug\primefactors.exe
+C:\Users\Ahmet Bugra Cakici\source\repos\primefactors\primefactors\obj\Debug\primefactors.pdb

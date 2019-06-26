@@ -5,3 +5,10 @@ C:\Users\Ahmet Bugra Cakici\source\repos\primenumbers\primenumbers\obj\Debug\pri
 C:\Users\Ahmet Bugra Cakici\source\repos\primenumbers\primenumbers\obj\Debug\primenumbers.csproj.CoreCompileInputs.cache
 C:\Users\Ahmet Bugra Cakici\source\repos\primenumbers\primenumbers\obj\Debug\primenumbers.exe
 C:\Users\Ahmet Bugra Cakici\source\repos\primenumbers\primenumbers\obj\Debug\primenumbers.pdb
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q2\problem2\primenumbers\bin\Debug\primenumbers.exe.config
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q2\problem2\primenumbers\bin\Debug\primenumbers.exe
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q2\problem2\primenumbers\bin\Debug\primenumbers.pdb
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q2\problem2\primenumbers\obj\Debug\primenumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q2\problem2\primenumbers\obj\Debug\primenumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q2\problem2\primenumbers\obj\Debug\primenumbers.exe
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q2\problem2\primenumbers\obj\Debug\primenumbers.pdb

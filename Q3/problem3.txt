@@ -1,0 +1,3 @@
+Write the program that writes the largest prime number smaller than the number entered.
+
+Girilen sayýdan küçük , en büyük asal sayýyý yazan programý yazýnýz.

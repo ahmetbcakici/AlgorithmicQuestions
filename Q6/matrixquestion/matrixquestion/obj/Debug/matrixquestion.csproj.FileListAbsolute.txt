@@ -1,0 +1,6 @@
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q6\matrixquestion\matrixquestion\bin\Debug\matrixquestion.exe.config
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q6\matrixquestion\matrixquestion\bin\Debug\matrixquestion.exe
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q6\matrixquestion\matrixquestion\bin\Debug\matrixquestion.pdb
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q6\matrixquestion\matrixquestion\obj\Debug\matrixquestion.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q6\matrixquestion\matrixquestion\obj\Debug\matrixquestion.exe
+C:\Users\Ahmet Bugra Cakici\Desktop\Questions\Q6\matrixquestion\matrixquestion\obj\Debug\matrixquestion.pdb
