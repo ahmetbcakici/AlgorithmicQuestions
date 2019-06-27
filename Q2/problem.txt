@@ -1,3 +1,3 @@
 Write prime numbers until entered number.For an example if user enters 5 , you should write first 5 prime numbers.
 
-Girilen sayı kadar asal sayı bastırınız.Örneğin 5 girilince ilk 5 asal sayı basılacaktır.
+Girilen sayı kadar asal sayı bastırınız.Örneğin 5 girilirse ilk 5 asal sayıyı bastırınız.
