@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <meta charset="UTF-8">
+</head>
+<body>
+	<h3>Write the program that writes the largest prime number smaller than the number entered.</h3>
+    <h3>Girilen sayıdan küçük , en büyük asal sayıyı yazınız.</h3>
+    <input type="text" id="number">
+    <button id = "ok">OK</button>
+</body>
+<script>
+    $("#ok").click(function(){
+        number = document.getElementById("number").value;
+        var primenumbers = [];
+        var flag = false;
+        for(var i = 2;i < number;i++){
+            for(var j = 2;j < i;j++){
+                if(i % j == 0 && i != j){
+                    flag = true;
+                    break;
+                }
+            }
+            if(flag == false){
+                primenumbers.push(i);
+            }
+            else
+                flag = false;
+        }
+        console.log(Math.max.apply(Math,primenumbers));
+    })
+    
+
+</script>
+</html>
