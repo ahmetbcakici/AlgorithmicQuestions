@@ -1,0 +1,4 @@
+// write a function that reverts the place of every 2nd item
+// example array
+let arr = ['a', 'b', 'c', 'd', 'e']
+// expected outcome: ['b', 'a', 'd', 'c', 'e']

@@ -1,0 +1,16 @@
+/*
+  write a function that takes an array, and generates chat rooms between each person (no matter the length of the array)
+  
+  room model:
+  {
+    userIds: [id1, id2]
+  }
+
+	example array:
+  [1, 2, 3, 4]
+
+*/
+ 
+
+ 
+ 
